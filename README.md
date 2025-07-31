@@ -16,3 +16,8 @@ In summary, this project is a practical introduction to real-time speech interac
 
 output:
 
+<img width="1281" height="343" alt="Image" src="https://github.com/user-attachments/assets/e8a73a62-637d-49a9-b944-f530017f358a" />
+<img width="1274" height="342" alt="Image" src="https://github.com/user-attachments/assets/3546d275-13c0-466b-a275-75b60ab62ec1" />
+
+<img width="1781" height="988" alt="Image" src="https://github.com/user-attachments/assets/4f6e8719-08f6-4c05-81a9-4ad1f3a27169" />
+
